@@ -75,11 +75,11 @@ The current implementation addresses all these issues:
 ## Output Example
 
 1. **After running the `Main` class with a sample file (`data.txt`), the log output could look like this:**
-    - For **volumetric** testing purposes, I updated the **data.txt** file to contain **10203 records**
+    - For **volumetric** testing purposes, I updated the **data.txt** file to contain **102144 records**
 
-- set. 20, 2025 6:41:46 PM main.java.com.example.fileprocessor.Main main
-- INFORMAÇÕES: Lines processed: 10203
-- set. 20, 2025 6:41:47 PM main.java.com.example.fileprocessor.Main main
-- INFORMAÇÕES: Total time (ms): 258
+- set. 20, 2025 6:56:56 PM main.java.com.example.fileprocessor.Main main
+- INFORMAÇÕES: Lines processed: 102144
+- set. 20, 2025 6:56:56 PM main.java.com.example.fileprocessor.Main main
+- INFORMAÇÕES: Total time (ms): 413
 
 ---
