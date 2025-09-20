@@ -68,3 +68,17 @@ The current implementation addresses all these issues:
     - Measures **total execution time** for processing, useful in high-volume scenarios.
 
 ---
+
+
+---
+
+## Output Example
+
+After running the `Main` class with a sample file (`data.txt`), the log output could look like this:
+
+set. 20, 2025 7:39:01 AM main.java.com.example.fileprocessor.Main main
+INFORMAÇÕES: Lines processed: 23
+set. 20, 2025 7:39:02 AM main.java.com.example.fileprocessor.Main main
+INFORMAÇÕES: Total time (ms): 203
+
+---
