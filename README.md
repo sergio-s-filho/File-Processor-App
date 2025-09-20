@@ -76,9 +76,9 @@ The current implementation addresses all these issues:
 
 1. **After running the `Main` class with a sample file (`data.txt`), the log output could look like this:**
 
-- set. 20, 2025 7:39:01 AM main.java.com.example.fileprocessor.Main main
-- INFORMAÇÕES: Lines processed: 23
-- set. 20, 2025 7:39:02 AM main.java.com.example.fileprocessor.Main main
-- INFORMAÇÕES: Total time (ms): 203
+- set. 20, 2025 6:41:46 PM main.java.com.example.fileprocessor.Main main
+- INFORMAÇÕES: Lines processed: 10203
+- set. 20, 2025 6:41:47 PM main.java.com.example.fileprocessor.Main main
+- INFORMAÇÕES: Total time (ms): 258
 
 ---
