@@ -7,6 +7,13 @@ The goal of this exercise is to demonstrate the ability to **analyze existing co
 
 ---
 
+## Tech Stack / Frameworks Used
+
+**This project was developed using pure Java, relying only on the Java Standard Edition (Java SE) libraries, with no external dependencies.**
+
+---
+
+
 ## Original Code Issues
 
 The original code had several critical problems:
