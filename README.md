@@ -5,6 +5,16 @@
 This project contains a Java program (`FileProcessor`) designed to read lines from a file and process them concurrently.  
 The goal of this exercise is to demonstrate the ability to **analyze existing code, identify concurrency issues, inefficiencies, and bad practices, and propose a robust, production-ready solution**.
 
+
+
+
+
+
+---
+## Tech Stack / Frameworks Used
+
+**This project was developed using pure Java, relying only on the Java Standard Edition (Java SE) libraries, with no external dependencies.**
+
 ---
 
 ## Original Code Issues
